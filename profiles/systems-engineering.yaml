@@ -1,0 +1,15 @@
+name: "Systems Engineering"
+output_filename: "Resume_SystemsEngineering.docx"
+description: "Emphasizes systems engineering, architecture, and requirements experience."
+
+include_tags: [systems-engineering]
+job_inclusion: "job_tag_matches_or_any_bullet"
+max_bullets_per_job: 7
+
+headline: "Systems Engineering Professional"
+summary_override: null
+
+skills_categories: null
+education: "all"
+certifications: "matching_tags"
+awards: "matching_tags"

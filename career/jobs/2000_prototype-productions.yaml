@@ -1,0 +1,29 @@
+id: prototype-productions-2000
+employer: "Prototype Productions, Inc."
+title: "Director of Precision Machining / Operations Manager"
+location: "Sterling, VA"
+start_date: "2000"
+end_date: "2012"
+tags: [leadership]
+bullets:
+  - text: "Progressively promoted into executive leadership positions within a 100-employee aerospace manufacturer; held full P&L responsibility for two manufacturing facilities producing electro-mechanical assemblies."
+    tags: [leadership]
+  - text: "Hand-picked by the COO to serve as Systems Integrator, identifying interdepartmental inefficiencies and standardizing processes and procedures across the business."
+    tags: [systems-engineering, leadership]
+  - text: "Managed Enterprise Resource Planning (ERP) implementation across engineering, manufacturing, planning, inventory, and procurement."
+    tags: [systems-engineering, leadership]
+  - text: "Improved on-time delivery from 0% to 100% while maintaining 100% DCMA quality acceptance, contributing to VSE Corporation Contractor of the Year recognition."
+    tags: [mission-assurance, leadership]
+  - text: "Established inventory accountability and forecasting capabilities that strengthened supplier partnerships, reduced procurement costs, and resulted in tax savings adjustments on obsolete inventory within 6 months."
+    tags: [leadership]
+  - text: "Led the introduction of Cellular and Lean Manufacturing practices, applying 5S concepts to improve processes across the company and successfully integrating a newly acquired manufacturing plant."
+    tags: [leadership]
+  - text: "Created and implemented ISO procedures leading to ISO 9001:2008 certification, and created a calibration/monitoring/storage process for measuring devices compliant with NIST and ISO."
+    tags: [mission-assurance]
+  - text: "Delivered machining and manufacturing programs for the US Military, NASA, AeroAstro, and Naval Research Lab, including the MK19 Grenade Launcher Adjustable Sight Bracket, MRAP Driver Vision Enhancement, and PAC-3 Missile components."
+    tags: [leadership]
+  - text: "Served as point of contact for DCMA (Defense Contract Management Agency) audits of government contracts."
+    tags: [mission-assurance]
+  - text: "Received the 2011 VSE Corporation Vendor of the Year award; selected by DRS Training and Control Systems for their Supplier Excellence program (1 of 20 vendors selected from 1,200)."
+    tags: [leadership]
+skills: ["ERP", "Lean Manufacturing", "ISO 9001", "P&L Management"]

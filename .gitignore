@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ResumeMaking: personal source docs and generated resumes are not source of truth
+intake/drop/*
+!intake/drop/.gitkeep
+intake/converted/*
+!intake/converted/.gitkeep
+output/*.docx

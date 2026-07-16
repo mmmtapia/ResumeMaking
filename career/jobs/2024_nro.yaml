@@ -1,0 +1,25 @@
+id: nro-2024
+employer: "National Reconnaissance Office (NRO)"
+title: "Ground Enterprise Systems Engineer"
+location: "Chantilly, VA"
+start_date: "2024"
+end_date: "present"
+tags: [systems-engineering]
+bullets:
+  - text: "Provide enterprise systems engineering leadership supporting the NRO Ground Enterprise."
+    tags: [systems-engineering, leadership]
+  - text: "Own the NRO-wide engineering requirements and standards governing Ground Station development, modernization, implementation, and sustainment."
+    tags: [systems-engineering]
+  - text: "Chair the monthly Ground Requirements Change Board and serve as engineering representative to the Engineering Review Board."
+    tags: [systems-engineering, leadership]
+  - text: "Lead Government and contractor efforts for enterprise requirements management across the Ground architecture."
+    tags: [systems-engineering]
+  - text: "Serve as Contracting Officer's Technical Representative (COTR) for a SETA contract."
+    tags: [leadership]
+  - text: "Designated Information System Owner (ISO) for contractor-managed IT assets."
+    tags: [systems-engineering, leadership]
+  - text: "Modernized a 570-page enterprise requirements baseline using MBSE tools, Jira, Confluence, and custom visualization technology."
+    tags: [systems-engineering]
+  - text: "Awarded the NRO Director's Circle Award for digital engineering and requirements modernization."
+    tags: [systems-engineering, leadership]
+skills: ["Model-Based Systems Engineering (MBSE)", "Jira", "Confluence", "Requirements Management", "Digital Engineering"]

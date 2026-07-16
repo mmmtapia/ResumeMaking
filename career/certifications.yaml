@@ -1,0 +1,31 @@
+- name: "Certified Quality Engineer (CQE), Certificate #63740"
+  issuer: "American Society for Quality (ASQ)"
+  tags: [mission-assurance]
+
+- name: "Six Sigma Green Belt Certified (SSGBC)"
+  issuer: "Management and Strategy Institute"
+  tags: [mission-assurance, systems-engineering]
+
+- name: "Project Management"
+  issuer: "Northern Virginia Community College"
+  tags: [leadership]
+
+- name: "Project Management Communication"
+  issuer: "Northern Virginia Community College"
+  tags: [leadership]
+
+- name: "Quality Management and Assurance"
+  issuer: "Northern Virginia Community College"
+  tags: [mission-assurance]
+
+- name: "Team Dynamics"
+  issuer: "Northern Virginia Community College"
+  tags: [leadership]
+
+- name: "Lean Product Development Workshop"
+  issuer: "VPMEP"
+  tags: [systems-engineering]
+
+- name: "Contracting Officer's Technical Representative (COTR)"
+  issuer: "Defense Acquisition University"
+  tags: [leadership]

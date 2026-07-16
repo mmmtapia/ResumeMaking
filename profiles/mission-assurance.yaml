@@ -1,0 +1,17 @@
+name: "Mission Assurance"
+output_filename: "Resume_MissionAssurance.docx"
+description: "Emphasizes mission assurance, flight assurance, and quality engineering experience."
+
+include_tags: [mission-assurance]
+job_inclusion: "job_tag_matches_or_any_bullet"
+include_jobs: [nro-2024]   # keep current employer on the timeline even though its bullets
+                            # aren't tagged mission-assurance, to avoid an apparent employment gap
+max_bullets_per_job: 7
+
+headline: "Mission Assurance & Quality Engineering Professional"
+summary_override: null
+
+skills_categories: null
+education: "all"
+certifications: "matching_tags"
+awards: "matching_tags"

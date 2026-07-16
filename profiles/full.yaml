@@ -1,0 +1,15 @@
+name: "Full"
+output_filename: "Resume_Full.docx"
+description: "Complete career history, unfiltered."
+
+include_tags: null
+job_inclusion: "always"
+max_bullets_per_job: null
+
+headline: null
+summary_override: null
+
+skills_categories: null
+education: "all"
+certifications: "all"
+awards: "all"

@@ -1,0 +1,24 @@
+- name: "NRO Director's Circle Award"
+  context: "Awarded for modernizing enterprise engineering requirements through digital engineering."
+  date: null
+  tags: [systems-engineering, leadership]
+
+- name: "NASA Recognition"
+  context: "For an innovative satellite Circuit Card Assembly repair methodology, resulting in approximately $4M in savings."
+  date: null
+  tags: [mission-assurance]
+
+- name: "The Aerospace Corporation Recognition"
+  context: "For the same Circuit Card Assembly repair methodology, reviewed and praised alongside NASA and the Office of the Chief Engineer."
+  date: null
+  tags: [mission-assurance]
+
+- name: "Office of the Chief Engineer Recognition"
+  context: "For the Circuit Card Assembly repair methodology, certified by an IPC Master Instructor."
+  date: null
+  tags: [mission-assurance]
+
+- name: "VSE Corporation Contractor of the Year"
+  context: "Organization contribution recognition for improving on-time delivery from 0% to 100% while maintaining 100% DCMA quality acceptance."
+  date: "2011"
+  tags: [mission-assurance, leadership]

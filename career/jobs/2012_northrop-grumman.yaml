@@ -1,0 +1,35 @@
+id: northrop-grumman-2012
+employer: "Northrop Grumman Tactical Space Systems"
+title: "Mission Assurance / Flight Assurance / Quality Engineering Leader"
+location: "Dulles, VA"
+start_date: "2012"
+end_date: "2024"
+tags: [mission-assurance]
+bullets:
+  - text: "Selected by the Director of Safety & Mission Assurance to establish the Quality Engineering organization based on outstanding performance and recommendations from senior leadership."
+    tags: [mission-assurance, leadership]
+  - text: "Built and led an organization of more than 90 Quality Engineers and Inspectors supporting national security space programs."
+    tags: [mission-assurance, leadership]
+  - text: "Served as Flight Assurance Manager throughout spacecraft design, manufacturing, integration, environmental testing, and launch preparation for GeoStar-2 and GeoStar-3 satellite programs."
+    tags: [mission-assurance]
+  - text: "Represented Mission Assurance in design reviews with suppliers and customers, and participated in design reviews for the new GeoStar-3 product line."
+    tags: [mission-assurance, systems-engineering]
+  - text: "Led complex root cause investigations using Design of Experiments (DOE) to identify failure mechanisms and corrective actions; debriefed executive management on major/critical anomaly investigations."
+    tags: [mission-assurance]
+  - text: "Originated and led development of an innovative satellite Circuit Card Assembly repair methodology recognized by NASA, The Aerospace Corporation, the Office of the Chief Engineer, and IPC Master Instructors; resulted in approximately $4M in savings."
+    tags: [mission-assurance, systems-engineering]
+  - text: "Created executive dashboards measuring the Cost of Poor Quality (COPQ), enabling millions of dollars to be reinvested into manufacturing equipment and capability."
+    tags: [mission-assurance, leadership]
+  - text: "Chaired Corrective Action Boards (MRBs/FRBs) and served as process owner and trainer for the nonconformance and Root Cause and Corrective Action process."
+    tags: [mission-assurance, leadership]
+  - text: "Implemented a Nonconformance Analysis tool to prioritize NCs and identify systemic issues; redesigned the NC database format to provide meaningful data."
+    tags: [mission-assurance, systems-engineering]
+  - text: "Reviewed proposals, supported source selections, and performed supplier and program technical assessments from a Mission Assurance perspective; served as Cost Account Manager for SMA program activities."
+    tags: [mission-assurance]
+  - text: "Contributed as a subject matter expert to Aerospace Corporation document TOR-2014-02202, Root Cause Investigation Best Practices Guide."
+    tags: [mission-assurance]
+  - text: "Served as program Designated Export Compliance Administrator (DECA)."
+    tags: [mission-assurance]
+  - text: "Maintained organizational performance, engagement, and morale during periods of uncertainty, including COVID."
+    tags: [leadership]
+skills: ["Root Cause Investigation", "Design of Experiments (DOE)", "Quality Engineering", "Corrective Action", "Supplier Quality"]

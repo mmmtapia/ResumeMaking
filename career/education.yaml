@@ -1,0 +1,17 @@
+- institution: "The George Washington University"
+  degree: "M.S."
+  field: "Systems Engineering"
+  location: "Washington, DC"
+  honors: null
+
+- institution: "Strayer University"
+  degree: "B.A."
+  field: "Business Administration"
+  location: "Ashburn, VA"
+  honors: null
+
+- institution: "Instituto Superior Universitario Central Tecnico"
+  degree:
+  field: "Industrial Engineering Technology"
+  location: "Ecuador"
+  honors: null

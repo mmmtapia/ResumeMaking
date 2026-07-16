@@ -1,0 +1,41 @@
+categories:
+  - name: "Mission Assurance"
+    tags: [mission-assurance]
+    skills:
+      - "Mission Assurance"
+      - "Flight Assurance"
+      - "Root Cause Investigation"
+      - "Design of Experiments (DOE)"
+      - "Quality Engineering"
+      - "Corrective Action"
+      - "Supplier Quality"
+      - "ISO 9001"
+
+  - name: "Systems Engineering"
+    tags: [systems-engineering]
+    skills:
+      - "Systems Engineering"
+      - "Requirements Management"
+      - "Engineering Governance"
+      - "Enterprise Integration"
+      - "Digital Engineering"
+      - "Model-Based Systems Engineering (MBSE)"
+      - "Technical Risk Management"
+      - "Designated Information System Owner (ISO)"
+
+  - name: "Leadership & Management"
+    tags: [leadership]
+    skills:
+      - "Executive Leadership"
+      - "Government Acquisition"
+      - "Contracting Officer's Technical Representative (COTR)"
+      - "Operations Management"
+      - "Supervising / Leading Teams"
+      - "Process Improvement"
+      - "Problem Resolution"
+      - "Purchasing & Materials Management"
+
+  - name: "Other"
+    tags: []
+    skills:
+      - "Written and spoken Spanish"
